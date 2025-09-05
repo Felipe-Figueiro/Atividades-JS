@@ -1,5 +1,6 @@
+let prompt = require('prompt-sync')();
 
-let num1 = 1;
+let num1 = parseInt(prompt("FALA UM NUMERO AE AMIGO: "))
 let num2 = 2;
 let num3 = 22;
 let num4 = 33;
